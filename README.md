@@ -40,9 +40,5 @@ O nosso aplicativo combina a conveniência das compras online com recursos avan�
   - Processamento de linguagem natural para o chatbot.
 
 ## Como Usar o Aplicativo
-1. Baixe o aplicativo na loja de aplicativos do seu dispositivo.
-2. Faça o login ou crie uma nova conta.
-3. Explore os produtos, utilize a busca inteligente e aproveite as recomendações personalizadas.
-4. Use o chatbot para obter assistência durante a navegação.
-
+- WIP
 Com o nosso aplicativo, a experiência de compra se tornará mais inteligente e conveniente. Experimente agora mesmo! 🛒🤖
