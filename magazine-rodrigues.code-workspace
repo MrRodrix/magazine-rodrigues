@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Ecom/E-commerce-Complete-Flutter-UI/android"
+		},
+		{
+			"path": "../../Ecom/E-commerce-Complete-Flutter-UI/assets"
+		},
+		{
+			"path": "../../Ecom/E-commerce-Complete-Flutter-UI/ios"
+		},
+		{
+			"path": "../../Ecom/E-commerce-Complete-Flutter-UI/lib"
+		},
+		{
+			"path": "../../Ecom/E-commerce-Complete-Flutter-UI/test"
+		}
+	],
+	"settings": {}
+}
