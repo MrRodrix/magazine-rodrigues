@@ -1,10 +1,10 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ufrpe.ecom.magazine_rodrigues">
     <application
-        android:label="demo_app"
-        android:name="${applicationName}"
+        android:label="MagazineLAISA"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name=".MainActivity"
+            android:name="ufrpe.ecom.magazine_rodrigues.MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
